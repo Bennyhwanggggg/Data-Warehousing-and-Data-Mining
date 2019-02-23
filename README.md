@@ -1,3 +1,1 @@
-# COMP9318 (2018s1)
-
-Jupyter notebooks for COMP9318 (Data Warehousing and Data Mining) @ CSE, UNSW. 
+# Course work for Data Warehousing and Data Mining @ University of New South Wales 2019 semester 1
